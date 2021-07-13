@@ -33,7 +33,8 @@
  font-size:auto;
  cursor: pointer
 }
-@media (min-width:812px) {
+
+@media only screen and (max-device-width: 900px)  {
  .popcontent {
   width:90%;
   height:auto;
