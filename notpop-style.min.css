@@ -15,6 +15,7 @@
  display:block;
  position:absolute;
  background:#fff;
+ width: 35%;
  top:40%;
  left:50%;
  padding:10px 10px 6px 10px;
@@ -44,7 +45,7 @@
   height:auto
  }
  .nrbt {
-  font-size:25px
+  font-size:28px
  }
 }
 
