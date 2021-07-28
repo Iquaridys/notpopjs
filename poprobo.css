@@ -30,16 +30,7 @@
  display:block;
 }
 
-.nrbt {
- border: 1px solid gray;
- font-size:0.8em;
-  border-radius: 3px;
- text-align: center;
-  text-decoration: none;
- cursor: pointer
-}
-
-.popcontent #close{
+.popcontent #popclose{
 position:absolute;
 right:0;
 top:0;
@@ -49,6 +40,15 @@ padding:0px 6px;
 color:black;
 font-size:1.6em;
 transition:0.2s;
+}
+
+#nrbt {
+ border: 1px solid gray;
+ font-size:0.8em;
+  border-radius: 3px;
+ text-align: center;
+  text-decoration: none;
+ cursor: pointer
 }
 
 @media screen and (max-width:840px){
